@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nursultan
 - 👀 I’m interested in FrontEnd and Dev-Ops development
-- 🌱 I’m currently learning Vue.js and Express.js
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 🌱 I’m currently learning Angular and Firebase
+- 📫 Contact Email: nazarbay.ktl@gmail.com
